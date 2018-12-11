@@ -16,4 +16,4 @@ Once it is running, you can access it in a browser at [http://localhost:3000](ht
 
 Just add this line to check webhook
 
-Just another test to trigger a build in jenkins to see if the webhook woeks
+Just another test to trigger a build in jenkins to see if the webhook works
