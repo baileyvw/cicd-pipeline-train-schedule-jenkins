@@ -10,6 +10,6 @@ pipeline {
             steps {
                 echo 'Testing in progress' 
             }
-        }
+          }
         }
     }
